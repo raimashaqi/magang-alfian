@@ -85,6 +85,10 @@ Pastikan perangkat kamu telah terinstall:
 
 6. *Stop aplikasi dan server*:
    - Tekan `Ctrl + C` untuk menghentikan aplikasi dan server.
+  
+7. *Akun Demo*
+   - Username : admin@example.com
+   - Password : password321
 
 ---
 
